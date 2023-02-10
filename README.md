@@ -1,8 +1,8 @@
 ## 👨🏾 Hi!
 
-Eu sou Vanderson Dias Mendes
+**Eu sou Vanderson Dias Mendes**
  
-Meu foco atualmente esta em Front-end
+**Meu foco atualmente esta em Front-end**
 
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VandersonMendes&show_icons=true&theme=tokyonight"/>
