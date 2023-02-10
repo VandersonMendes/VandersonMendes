@@ -1,10 +1,10 @@
-## Hi 👋<br><br>
+## Olá, 👋<br>
 
 
-**Olá seja bem vindo ao meu github, me chamo Vanderson Dias Mendes, Atualmente estudo Front-end, Especificamente JavaScript**
+**Olá seja bem vindo ao meu github, me chamo Vanderson Dias Mendes, Atualmente estudo Front-end, Especificamente JavaScript**<br><br>
 
-
-<br><br>[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/vanderson-dias-mendes-184003238/ "Connect via Linkedin") 
+#
+<<br>[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/vanderson-dias-mendes-184003238/ "Connect via Linkedin") 
 [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/vanderson.mends/ "Connect via Instagram") 
 
 
