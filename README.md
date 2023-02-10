@@ -1,9 +1,7 @@
 ## Hi 👋, I'm [Vanderson Dias Mendes!](https://github.com/VandersonMendes) <br><br>
 
 
-
-
-<div style="color:red;">Olá seja bem vindo ao meu gitHub</div>
+Olá seja bem vindo ao meu github, me chamo Vanderson Dias Mendes, Atualmente estudo Front-end, Especificamente JavaScript
 
 
 <br><br>[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/vanderson-dias-mendes-184003238/ "Connect via Linkedin") 
