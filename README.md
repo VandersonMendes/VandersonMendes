@@ -1,10 +1,5 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:9796f0,100:fbc7d4&height=210&section=header&text=Vanderson%20Mendes&fontSize=30&fontColor=fff&animation=fadeIn&fontAlignY=30&desc=Dev%20Front%20End&descAlignY=50">
 
-## 👨🏾 Hi!
-
-**Eu sou Vanderson Dias Mendes**
- 
-**Meu foco atualmente esta em Front-end**
 
 <div>
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=VandersonMendes&show_icons=true&theme=tokyonight"/>
