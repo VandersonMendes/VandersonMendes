@@ -22,4 +22,4 @@
 </div>
 
 ### 📚 Acesse meu Portfólio
-[![Portfólio](https://img.shields.io/badge/Portfólio-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://vandersonmendes.github.io/Portf-lio/)
+[![Portfólio](https://img.shields.io/badge/Portfólio-E4405F?style=for-the-badge&)](https://vandersonmendes.github.io/Portf-lio/)
