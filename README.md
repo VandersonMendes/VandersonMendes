@@ -14,12 +14,7 @@
 
 ### 🛠️ Technologies e Tools I use:
 
-<div>
-<img align="center" alt="Andressa-html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
-<img align="center" alt="Andressa-css" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
-<img align="center" alt="Andressa-js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
-<img align="center" alt="Andressa-js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
-</div>
+<img  height="50em" src="https://skillicons.dev/icons?i=javascript,react,typescript,angular,html,css,sass,tailwind" />
 
 ### 📚 Acesse meu Portfólio
 [![Portfólio](https://img.shields.io/badge/Portfólio-E4405F?style=for-the-badge&)](https://vandersonmendes.github.io/Portf-lio/)
